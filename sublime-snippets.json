@@ -1,0 +1,14 @@
+{
+  "software": [
+    {
+      "name": "Sublime snippets",
+      "git_repo": "git@github.com:forsvunnet/sublime-snippets.git",
+      "dependencies": [
+        "php",
+        "python",
+        "node"
+      ],
+      "post_install": "php install.php"
+    }
+  ]
+}
