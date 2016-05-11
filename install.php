@@ -11,4 +11,4 @@ if ( !file_exists( $path ) )
 $snippets_path = __DIR__ .'/Snippets';
 
 echo "Copying snippets to \"$path/Snippets\"\n";
-`cp -r "$snippets_path" "$path/Snippets"`;
+`cp -r "$snippets_path" "$path/"`;

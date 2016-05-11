@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+get_class_methods( ${1:$var} )${2}
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>gc</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.php</scope>
+</snippet>
