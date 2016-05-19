@@ -1,3 +1,4 @@
+#!/usr/bin/php
 <?php
 
 // This installer only support for Mac OS X at this point

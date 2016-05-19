@@ -1,8 +1,8 @@
 <snippet>
   <content><![CDATA[
-static function ${1:name}() {
-  ${2:// ...}
-  return ${3};
+static function ${1:name}(${2}) {
+  ${3:// ...}
+  ${4:return ;}
 }
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
